@@ -136,6 +136,7 @@ python train_model.py
 Upload a chest X-ray image through the web interface to predict:
 - NORMAL
 - PNEUMONIA
+- UNKNOWN
 
 ---
 
